@@ -1,0 +1,19 @@
+Process Name: explorer.exe
+User: turon
+Description: Windows Explorer
+
+Process Name: ePowerButton_NB.exe
+User: turon
+Description: ePowerButton_NB
+
+Process Name: igfxEMN.exe
+User: turon
+Description: igfxEM Module
+
+Process Name: Microsoft.Notes.exe
+User: turon
+Description: Microsoft Notes App
+
+Process Name: msedgewebview2.exe
+User: turon
+Description: Utility / GPU Process (Edge WebView)

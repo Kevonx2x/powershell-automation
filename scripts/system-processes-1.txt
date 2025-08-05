@@ -1,0 +1,21 @@
+Process Name: Registry
+User: SYSTEM
+Description: NT Kernel & System
+
+Process Name: QAAdminAgent.exe
+User: SYSTEM
+Description: QAAdminAgent
+
+Process Name: QASvc.exe
+User: SYSTEM
+Description: QASvc
+
+Process Name: OfficeClickToRun.exe
+User: SYSTEM
+Description: Microsoft Office Click-to-Run Service
+
+Process Name: OneApp.IGCC.WinService.exe
+User: SYSTEM
+Description: Intel Graphics Command Center Service
+
+

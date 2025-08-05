@@ -1,0 +1,19 @@
+Process Name: DtsApo4Service.exe
+User: SYSTEM
+Description: Controls the DTS audio processing object
+
+Process Name: igfxCUIServiceN.exe
+User: SYSTEM
+Description: igfxCUIService Module
+
+Process Name: IntelAudioService.exe
+User: SYSTEM
+Description: IntelAudioService
+
+Process Name: KAPSService.exe
+User: SYSTEM
+Description: Windows Service Wrapper
+
+Process Name: LMS.exe
+User: SYSTEM
+Description: Intel(R) Local Management Service

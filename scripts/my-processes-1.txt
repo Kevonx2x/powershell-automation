@@ -1,0 +1,19 @@
+Process Name: powershell.exe  
+User: turon  
+Description: Windows PowerShell Console
+
+Process Name: SearchHost.exe  
+User: turon  
+Description: Windows Search Handler
+
+Process Name: PostmanAgent.exe  
+User: turon  
+Description: Postman API Agent
+
+Process Name: explorer.exe  
+User: turon  
+Description: Windows File Explorer
+
+Process Name: OneDrive.exe  
+User: turon  
+Description: Microsoft OneDrive Sync Client
